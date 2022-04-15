@@ -1,0 +1,9 @@
+[user]
+	name = Mario Pereira
+	email = 554178+mariojp@users.noreply.github.com
+[core]
+	autocrlf = input
+[pull]
+	rebase = true
+[init]
+	defaultBranch = main
